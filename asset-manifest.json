@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-pdf/static/css/main.9d88073a.chunk.css",
+    "main.js": "/react-pdf/static/js/main.bde0d8d2.chunk.js",
+    "main.js.map": "/react-pdf/static/js/main.bde0d8d2.chunk.js.map",
+    "runtime-main.js": "/react-pdf/static/js/runtime-main.21030436.js",
+    "runtime-main.js.map": "/react-pdf/static/js/runtime-main.21030436.js.map",
+    "static/js/2.37095108.chunk.js": "/react-pdf/static/js/2.37095108.chunk.js",
+    "static/js/2.37095108.chunk.js.map": "/react-pdf/static/js/2.37095108.chunk.js.map",
+    "index.html": "/react-pdf/index.html",
+    "static/css/main.9d88073a.chunk.css.map": "/react-pdf/static/css/main.9d88073a.chunk.css.map",
+    "static/js/2.37095108.chunk.js.LICENSE.txt": "/react-pdf/static/js/2.37095108.chunk.js.LICENSE.txt",
+    "static/media/logo.a2977eb6.png": "/react-pdf/static/media/logo.a2977eb6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21030436.js",
+    "static/js/2.37095108.chunk.js",
+    "static/css/main.9d88073a.chunk.css",
+    "static/js/main.bde0d8d2.chunk.js"
+  ]
+}
