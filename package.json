@@ -1,8 +1,8 @@
 {
-  "name": "project-react-pdf",
+  "name": "react-pdf",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/UladzimirKhilko/UladzimirKhilko.github.io/react-pdf",
+  "homepage": "https://UladzimirKhilko.github.io/react-pdf",
   "dependencies": {
     "@react-pdf/renderer": "^1.6.17",
     "@testing-library/jest-dom": "^5.11.4",
