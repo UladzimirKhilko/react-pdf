@@ -8,7 +8,7 @@ export const Header = () => {
                 <ul id='nav-mobile' className='right hide-on-med-and-down'>
                     <li>
                         <a
-                            href='https://github.com/UladzimirKhilko/test-pdf'
+                            href='https://github.com/UladzimirKhilko/react-pdf'
                             target='_blank'
                             rel='noreferrer'
                         >

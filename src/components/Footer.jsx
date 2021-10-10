@@ -6,7 +6,7 @@ export const Footer = () => {
                     © {new Date().getFullYear()} Copyright Text
                     <a
                         className='grey-text text-lighten-4 right'
-                        href='https://github.com/UladzimirKhilko/test-pdf'
+                        href='https://github.com/UladzimirKhilko/react-pdf'
                         target='_blank'
                         rel='noreferrer'
                     >
