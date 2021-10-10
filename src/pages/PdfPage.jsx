@@ -36,7 +36,7 @@ export const PdfPage = () => {
                             name={query.get('name')}
                             lastName={query.get('lastName')}
                         />
-                        <PdfBody />
+                        <PdfBody txtName={query.get('txtName')} />
                         <PdfFooter
                             firstName={query.get('firstName')}
                             date={currDate}
