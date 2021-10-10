@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-pdf/static/css/main.9d88073a.chunk.css",
-    "main.js": "/react-pdf/static/js/main.bde0d8d2.chunk.js",
-    "main.js.map": "/react-pdf/static/js/main.bde0d8d2.chunk.js.map",
+    "main.js": "/react-pdf/static/js/main.4780a415.chunk.js",
+    "main.js.map": "/react-pdf/static/js/main.4780a415.chunk.js.map",
     "runtime-main.js": "/react-pdf/static/js/runtime-main.21030436.js",
     "runtime-main.js.map": "/react-pdf/static/js/runtime-main.21030436.js.map",
     "static/js/2.37095108.chunk.js": "/react-pdf/static/js/2.37095108.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.21030436.js",
     "static/js/2.37095108.chunk.js",
     "static/css/main.9d88073a.chunk.css",
-    "static/js/main.bde0d8d2.chunk.js"
+    "static/js/main.4780a415.chunk.js"
   ]
 }
